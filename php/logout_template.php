@@ -1,0 +1,1 @@
+<div class="flex-container"><button onclick="window.location.href='php/logout.php'" class="login">Logout</button></div>

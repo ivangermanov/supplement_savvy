@@ -1,0 +1,2 @@
+<div class="flex-container"><button onclick="document.getElementById('id01').style.display='block'" class="login">Login</button></div>
+<div class="flex-container shape"><button onclick="document.getElementById('id02').style.display='block'" class="sign-up">Sign up</button></div>
